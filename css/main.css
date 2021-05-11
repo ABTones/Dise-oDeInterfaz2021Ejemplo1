@@ -1,0 +1,38 @@
+*{
+    background-color: #ee9595;
+    color: #ef4f4f;
+    margin: 10px;
+    font-family: 'Newsreader', serif;
+}
+
+.cuerpo{
+    display: grid;
+    grid-template-columns: 350px auto;
+    grid-column-gap: 35px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.portada{
+    max-width: 100%;
+}
+
+.navbar{
+    display: grid;
+    font-size: 22px;
+}
+
+.navbar li:hover{
+    cursor: pointer;
+    color: #ffcda3;
+  
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar li{
+    display: inline;
+    float: right;
+}
