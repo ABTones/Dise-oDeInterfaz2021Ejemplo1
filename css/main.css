@@ -36,3 +36,15 @@
     display: inline;
     float: right;
 }
+
+.boton{
+    background-color: crimson;
+    color: rgb(243, 174, 188);
+    font-size: 40px;
+    text-align:center;
+}
+
+.precio{
+    font-size: 30px;
+}
+
