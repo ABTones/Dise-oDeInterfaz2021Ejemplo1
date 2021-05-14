@@ -48,3 +48,8 @@
     font-size: 30px;
 }
 
+.navbar a:hover{
+    cursor: pointer;
+    color: #ffcda3;
+    
+}
