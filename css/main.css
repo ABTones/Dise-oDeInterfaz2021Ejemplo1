@@ -12,7 +12,9 @@
     text-align: justify;
     font-size: 18px;
 }
-
+.fotoaguilera{
+    max-width:50%;
+}
 .portada{
     max-width: 100%;
 }
